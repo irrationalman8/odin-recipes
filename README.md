@@ -1,1 +1,3 @@
 # odin-recipes
+
+This project is practice for the basics of website creation and linking various pages and some elements. By the end of the project I should be comfortable with setting up the boilerplate for html pages and some elements like lists, links, and images. I will also get the basics of the git workflow down. This is attempt two because I messed up my git log and wasn't sure what was happening so I just started fresh rather than going down a rabbit hole that I couldn't comprehend to fix my log. 
